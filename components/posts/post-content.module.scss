@@ -1,0 +1,19 @@
+.post {
+	max-width: 60rem;
+	margin: 0 auto 3rem auto;
+	padding: 0 2rem;
+
+	h1 {
+		margin: 3rem 0 2rem 0;
+	}
+
+	a {
+		display: block;
+		margin-top: 3rem;
+		color: #66fcf1;
+
+		&:hover {
+			color: #fff;
+		}
+	}
+}
