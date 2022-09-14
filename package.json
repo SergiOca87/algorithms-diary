@@ -11,12 +11,12 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "next": "12.2.5",
+    "node-sass": "^7.0.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-icons": "^4.4.0",
     "react-markdown": "^8.0.3",
-    "react-syntax-highlighter": "^15.5.0",
-    "sass": "^1.54.9"
+    "react-syntax-highlighter": "^15.5.0"
   },
   "devDependencies": {
     "eslint": "8.22.0",
