@@ -1,6 +1,4 @@
-import Link from 'next/link';
-import ReactMarkdown from 'react-markdown';
-import PostContent from '../../components/posts/Post-content';
+import PostContent from '../../components/posts/post-content';
 import { getPostData, getPostFiles } from '../../lib/util';
 
 function PostDetailPage({ post }) {
