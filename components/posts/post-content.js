@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import React from 'react';
-import styles from './post-content.module.scss';
+import styles from '../../styles/post-content.module.scss';
 import ReactMarkdown from 'react-markdown';
 import { PrismLight as SyntaxHighlighter } from 'react-syntax-highlighter';
 import atomDark from 'react-syntax-highlighter/dist/cjs/styles/prism/atom-dark';

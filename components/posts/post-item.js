@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import styles from './post-item.module.scss';
+import styles from '../../styles/post-item.module.scss';
 
 function PostItem({ post }) {
 	const { title, excerpt, slug } = post;

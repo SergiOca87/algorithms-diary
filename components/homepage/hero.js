@@ -1,4 +1,4 @@
-import styles from './hero.module.scss';
+import styles from '../../styles/hero.module.scss';
 import { BiCodeAlt } from 'react-icons/bi';
 import { FaBrain } from 'react-icons/fa';
 import { IconContext } from 'react-icons';
